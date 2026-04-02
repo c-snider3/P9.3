@@ -1,4 +1,5 @@
 /*Die run group function - Collin Snider*/
+//completed 
 
 #include <iostream>
 #include <random>
